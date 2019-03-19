@@ -13,13 +13,7 @@ required to:
 The process flow to get everything up and running is as follows:
 
 
-image:: ./media/image1.png
-  :height: "1.65625in"
-  :width: "5.0958333333in"
-
-
-
-![](./media/image1.png){width="5.095833333333333in" height="1.65625in"}
+<img src=./media/image1.png> 
 
 
 **Getting Started**
