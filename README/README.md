@@ -13,6 +13,9 @@ required to:
 The process flow to get everything up and running is as follows:
 
 
+![](./media/image1.png){width="5.095833333333333in" height="1.65625in"}
+
+
 **Getting Started**
 
 This Quick Start package provides access to:
