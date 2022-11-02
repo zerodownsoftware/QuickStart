@@ -56,4 +56,11 @@ YouTube reference video links are listed in Blue below.
 
 **License**
 
-Copyright 2019 © ZeroDown® Software
+
+2020-10-06  Added support for Ubuntu 18.04 LTS\
+
+Copyright 2022 ZeroNines Technology, Inc.
+
+Privacy:  https://zerodownsoftware.com/privacy-policy/
+
+End User License Agreement:  https://zerodownsoftware.com/end-user-license-agreement/
