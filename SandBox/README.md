@@ -32,4 +32,4 @@ ZeroDown Software Configuration and Testing Video:
 [![Configuration and Testing](media/ZDS-Sandbox2.png)](https://youtu.be/nH5iUDB95cI?si=NqMzYPkdAuI3GwuM)
 
 
-Plesae visit our website [ZeroDown Software](https://zerodownsoftware.com).
+Please visit our website [ZeroDown Software](https://zerodownsoftware.com).
