@@ -1,4 +1,4 @@
-**ZeroDown Quick Start Process**
+##ZeroDown Quick Start Process
 
 This ReadMe file and Quick Start Package will take you through the steps
 required to:
